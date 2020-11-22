@@ -1,3 +1,4 @@
+layout: default
 # int-trade-states
 So, the present code is a compilation well presented of the work that I did. 
 My objective is to analyze the evolution of the international trade of Michigan and its neighbour states Wisconsin, Ohio, Illinois and Indiana. 
