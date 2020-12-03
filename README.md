@@ -1,11 +1,5 @@
 ---
 layout: default
 ---
-# int-trade-states
-So, the code in Python notebook, that is in the repository, is a compilation well presented of the work that I did. 
-My objective is to analyze the evolution of the international trade of Michigan and its neighbour states Wisconsin, Ohio, Illinois and Indiana. 
-The data used are exports, imports and balance trade extracted by scrapping web tecnhniques from the USA Census Bureau. 
-The data is monthly and posted online by the Census bureau in the same frequency. 
-Hence, there were multiple files corresponding to monthly data for exports by origin of movement and imports by state destination both of them not seasonally adjusted. 
-So, in order to learn and avoiding to download many files and joining them I applied scrapping web techniques that I learned from different sources 
-and it was a magnific technique to learn in order to download public databases. 
+# tur-col-asia
+El presente repositorio es donde iré subiendo los códigos que he estado trabajando en mis tiempos libres con el fin de aplicar lo aprendido en Python en temas de interés. El primer cuaderno subido al repositorio corresponde a un proyecto final para el curso de Aplicación gráfica de datos en Python de la Universidad de Michigan en Coursera. Los demás que iré subiendo corresponden a cierto interés personal en trabajar temas de turismo por eso mi motivación en aplicar lo aprendido en algo que me llame la atención. Estos trabajos los enfocaré en el flujo turistico Asia-Colombia, el cual consideroa que tiene un potencial de crecimiento enorme y más aún en los años venideros en que el turismo necesita reactivarse. 
