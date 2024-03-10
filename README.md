@@ -7,7 +7,7 @@ layout: default
 <h1><left> General Objective </left></h1>
 The objective of this part of the project is to look at the evolution of Asian tourism in Colombia. For this purpose, two animated bar graphs were used. The first shows the 8 countries with the most entries to Colombia quarter by quarter from 2015 to the end of 2019 divided by gender. 
 
-The second graphic shows the evolution over time of Colombian region of destination of asian tourism through a chlropeth map.
+The second graphic shows the evolution over time of Colombian region of destination of asian tourism through a chlropeth map. This work was useful to apply knowledge of scrapping web and learn about how to graph in maps.
 
 The data from 2015 to 2017 were extracted from the Migración Colombia website. which are monthly so they were grouped together to see it quarterly. While for 2018 and 2019 they were downloaded from the Tableau dashboards provided by Migración Colombia. The links are the following:
 
