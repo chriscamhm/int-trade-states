@@ -2,4 +2,11 @@
 layout: default
 ---
 # tur-col-asia
-This repository is where I will upload the codes that I have been working on in my free time in order to apply what I have learned in Python on topics of interest. The first notebook uploaded to the repository corresponds to a final project for the Graphical Application of Data in Python course at the University of Michigan on Coursera. The others that I will upload correspond to a certain personal interest in working on tourism issues, which is why my motivation is to apply what I have learned in something that catches my attention. I will focus these works on the Asia-Colombia tourist flow, which I consider has enormous growth potential and even more so in the coming years when tourism needs to be reactivated.
+<h1><center> General objective </center></h1>
+The present work was realized as final project for the **Applied Plotting, Charting & Data Representation in Python**. So, the present code is a compilation well presented of the work that I did. The objective achieved was representing the evolution of the international trade of **Michigan** and its neighbour states **Wisconsin, Ohio, Illinois and Indiana** by an animated and interactive graphic. The data used are exports, imports and balance trade extracted by scrapping web tecnhniques from the USA Census Bureau. 
+The data is monthly and posted online by the Census bureau in the same frequency. Hence, there were multiple files corresponding to monthly data for **exports by origin of movement** and **imports by state destination** both of them not seasonally adjusted. So, in order to learn and avoiding to download many files and joining them I applied scrapping web techniques that I learned from different sources and it was a magnific technique to learn in order to download public databases. 
+The links are the following:
+
+**Exports:** https://www.census.gov/foreign-trade/statistics/state/origin_movement/index.html
+
+**Imports:** https://www.census.gov/foreign-trade/statistics/state/destination_state/index.html
