@@ -15,4 +15,3 @@ The following code shows the process from data collection to the final graph. Th
 
 **Flag images database:** https://query.data.world/s/ikdif4hs6ic7uyqrszeotioo5sjj3x
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6754512222275301376?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
