@@ -16,5 +16,6 @@ The following code shows the process from data collection to the final graph. Th
 **Flag images database:** https://query.data.world/s/ikdif4hs6ic7uyqrszeotioo5sjj3x
 <h1><left> Update </left></h1>
 Datapana is no longer available but I leave evidence of the graphic on video post on LinkedIn.
+
 **Video of the result graphic**:https://www.linkedin.com/posts/cristian-camilo-herre%C3%B1o-mojica-39a529127_turismo-asia-colombia-activity-6754512327350984704-GKIN?utm_source=share&utm_medium=member_desktop
 
